@@ -1,31 +1,31 @@
 # Project_Time_Series_Covid2019_Data
 
 ## Author : 
-- Aurélien Pardo [Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b)
-- Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/)
+- Aurélien Pardo [Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b).
+- Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/). Also in [Github](https://github.com/jducrey)
 
 
 ## Description
 
-Ce dépôt contient une analyse et une visualisation des données de séries temporelles relatives à la pandémie de COVID-19, avec un focus sur l'évolution de divers indicateurs clés (nombre de cas, décès, guérisons, etc.) dans le temps. Le projet vise à fournir des insights sur les tendances et à faciliter l'exploration de l'impact de la pandémie à l'échelle mondiale ou régionale.
+This repository contains an analysis and visualization of time-series data related to the COVID-19 pandemic, with a focus on the evolution of key indicators (number of cases, deaths, recoveries, etc.) over time. The project aims to provide insights into trends and facilitate exploration of the pandemic’s impact on both global and regional scales.
 
-## Contenu
+## Contents
 
-- Données : ensemble de données de séries temporelles liées au COVID-19, agrégées par jour et par région ou pays.
-- Scripts de traitement des données : scripts Python pour le nettoyage, la normalisation et la transformation des données afin de les rendre exploitables pour l'analyse.
-- Visualisations : graphiques et courbes illustrant les tendances des cas de COVID-19, des taux de guérison, et des décès.
-- Modèles prédictifs : STL decomposition.
+- **Data**: Time-series datasets related to COVID-19, aggregated daily and by region or country.
+- **Data Processing Scripts**: R mardown notebook for data cleaning, normalization, and transformation to make the data suitable for analysis.
+- **Visualizations** : Graphs and charts illustrating trends in COVID-19 cases, recovery rates, and death rates.
+- **Predictive Models**: STL decomposition.
 
-## Objectifs du projet
+## Project Goals
 
-- Analyser les données de la pandémie sur des périodes spécifiques et pour différentes régions géographiques.
-- Identifier les tendances et les pics de cas, et observer les impacts de différentes vagues de la pandémie.
-- Mettre en œuvre des modèles de séries temporelles pour prédire l'évolution future du nombre de cas.
+Analyze pandemic data across specific periods and for different geographic regions.
+Identify trends and case peaks, and observe the impact of different waves of the pandemic.
+Implement time-series models to predict future case numbers.
 
-## Prérequis
+## Requirements
 
-R : 
-Librairies : 
+**R** : 
+**Librairies** : 
 
 ## Utilisation
 
@@ -33,8 +33,8 @@ Clone the repository  :
 
     git clone https://github.com/Aurelp84/Project_Time_Series_Covid2019_Data.git
 
-Accéder aux notebooks et scripts d'analyse.
-Utiliser les visualisations pour explorer les tendances du COVID-19 et exécuter les modèles de prédiction.
+Access notebooks and analysis scripts.
+Use visualizations to explore COVID-19 trends and run predictive models.
 
-## Sources des données
-Les données utilisées dans ce projet proviennent de sources publiques de suivi des cas de COVID-19 (ex : OMS, Université Johns Hopkins).
+## Data Sources
+The data used in this project comes from public sources tracking COVID-19 cases (e.g., WHO, Johns Hopkins University).
