@@ -2,8 +2,8 @@
 
 ## Author
 
-    Aurélien Pardo [!Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b)
-    Julien Ducrey
+    Aurélien Pardo [Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b)
+    Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/)
 
 
 ## Description
