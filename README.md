@@ -12,20 +12,16 @@ This repository contains an analysis and visualization of time-series data relat
 ## Contents
 
 - **Data**: Time-series datasets related to COVID-19, aggregated daily and by region or country.
-- **Data Processing Scripts**: R mardown notebook for data cleaning, normalization, and transformation to make the data suitable for analysis.
+- **Data Processing Scripts**: R mardown notebook for data extraction, data cleaning and transformation to make the data suitable for analysis.
+- **Descriptives Statistics**: General insights (sum, mean, etc.) on data.
 - **Visualizations** : Graphs and charts illustrating trends in COVID-19 cases, recovery rates, and death rates.
-- **Predictive Models**: STL decomposition.
+- **Predictive Models**: Time Series : STL Decomposition.
 
 ## Project Goals
 
 Analyze pandemic data across specific periods and for different geographic regions.
 Identify trends and case peaks, and observe the impact of different waves of the pandemic.
 Implement time-series models to predict future case numbers.
-
-## Requirements
-
-**R** : 
-**Librairies** : 
 
 ## Utilisation
 
