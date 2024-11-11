@@ -1,4 +1,4 @@
-# Project_Time_Series_Covid2019_Data
+# Project Time Series Covid2019 Data
 
 ## Author : 
 - Aurélien Pardo [Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b).
@@ -33,4 +33,6 @@ Access notebooks and analysis scripts.
 Use visualizations to explore COVID-19 trends and run predictive models.
 
 ## Data Sources
-The data used in this project comes from public sources tracking COVID-19 cases (e.g., WHO, Johns Hopkins University).
+Data source: COVID-19 Data Hub <https://covid19datahub.io>.
+Author: 	Emanuele Guidotti [aut, cre], David Ardia [ctb]
+Maintainer: 	Emanuele Guidotti
