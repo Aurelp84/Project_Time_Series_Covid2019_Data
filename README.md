@@ -36,6 +36,6 @@ Access notebooks and analysis scripts.
 Use visualizations to explore COVID-19 trends and run predictive models.
 
 ## Data Sources
-Data source: COVID-19 Data Hub <https://covid19datahub.io>.
-Author: 	Emanuele Guidotti [aut, cre], David Ardia [ctb]
-Maintainer: 	Emanuele Guidotti
+- Data source: COVID-19 Data Hub <https://covid19datahub.io>.
+- Author: 	Emanuele Guidotti [aut, cre], David Ardia [ctb]
+- Maintainer: 	Emanuele Guidotti
