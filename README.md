@@ -26,7 +26,7 @@ Analyze pandemic data across specific periods and for different geographic regio
 Identify trends and case peaks, and observe the impact of different waves of the pandemic.
 Implement time-series models to predict future case numbers.
 
-## Utilisation
+## Usage
 
 Clone the repository  :
 
