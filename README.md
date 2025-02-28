@@ -24,9 +24,9 @@ This repository contains an analysis and visualization of time-series data relat
 
 ## Project Goals
 
-Analyze pandemic data across specific periods and for different geographic regions (France,Italy,Germany).
-Identify trends and case peaks, and observe the impact of different waves of the pandemic.
-Implement time-series models to predict future case numbers.
+- Analyze pandemic data across specific periods and for different geographic regions (France,Italy,Germany).
+- Identify trends and case peaks, and observe the impact of different waves of the pandemic.
+- Implement time-series models to predict future case numbers.
 
 
 ## Data Sources
