@@ -2,7 +2,7 @@
 
 ## Author : 
 - Aurélien Pardo [Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b).
-- Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/). Also in [Github](https://github.com/jducrey).
+- Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/) and [Github](https://github.com/jducrey).
 
 ## Programming Language
 
@@ -11,6 +11,8 @@
 ## Description
 
 This repository contains an analysis and visualization of time-series data related to the COVID-19 pandemic, with a focus on the evolution of key indicators (number of cases, deaths, recoveries, etc.) over time. The project aims to provide insights into trends and facilitate exploration of the pandemic’s impact on both global and regional scales.
+
+[!Image](confirmed_cases_covid_2019_Italy.png)
 
 ## Contents
 
@@ -22,20 +24,12 @@ This repository contains an analysis and visualization of time-series data relat
 
 ## Project Goals
 
-Analyze pandemic data across specific periods and for different geographic regions.
+Analyze pandemic data across specific periods and for different geographic regions (France,Italy,Germany).
 Identify trends and case peaks, and observe the impact of different waves of the pandemic.
 Implement time-series models to predict future case numbers.
 
-## Usage
-
-Clone the repository  :
-
-    git clone https://github.com/Aurelp84/Project_Time_Series_Covid2019_Data.git
-
-Access notebooks and analysis scripts.
-Use visualizations to explore COVID-19 trends and run predictive models.
 
 ## Data Sources
-- Data source: COVID-19 Data Hub <https://covid19datahub.io>.
-- Author: 	Emanuele Guidotti [aut, cre], David Ardia [ctb]
-- Maintainer: 	Emanuele Guidotti
+- Data source: Data from [COVID-19 Data][https://covid19datahub.io](https://disease.sh/).
+- Author: 	[Johns Hopkins University](https://coronavirus.jhu.edu/map.html) .
+  
