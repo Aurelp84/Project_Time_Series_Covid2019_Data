@@ -30,6 +30,6 @@ This repository contains an analysis and visualization of time-series data relat
 
 
 ## Data Sources
-- Data source: Data from [COVID-19 Data][https://covid19datahub.io](https://disease.sh/).
+- Data source: Data from [COVID-19 Data](https://disease.sh/).
 - Author: 	[Johns Hopkins University](https://coronavirus.jhu.edu/map.html) .
   
