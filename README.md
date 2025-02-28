@@ -12,7 +12,7 @@
 
 This repository contains an analysis and visualization of time-series data related to the COVID-19 pandemic, with a focus on the evolution of key indicators (number of cases, deaths, recoveries, etc.) over time. The project aims to provide insights into trends and facilitate exploration of the pandemic’s impact on both global and regional scales.
 
-[!Image](confirmed_cases_covid_2019_Italy.png)
+![Image](confirmed_cases_covid_2019_Italy.png)
 
 ## Contents
 
